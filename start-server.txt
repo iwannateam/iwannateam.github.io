@@ -1,0 +1,1 @@
+bundle exec /Users/PEIRAN/GoogleDrive/Peiran/Iwanna/airspace-jekyll/vendor/bundle/ruby/2.3.0/bin/jekyll server
