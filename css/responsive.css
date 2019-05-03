@@ -276,9 +276,14 @@ px      68    160    252    */
   #portfolio-work .block .portfolio-manu ul li {
     padding: 0 8px;
   }
-  #portfolio-work .block .portfolio-contant ul li {
+  #portfolio-work .block .portfolio-contant:not(#portfolio-contant-team) ul li {
+     width: 100%;
+   }
+
+  #portfolio-contant-team ul li {
     width: 100%;
   }
+
   #portfolio-work .block .portfolio-contant ul li a .img-heading {
     padding: 5px 0 5px 13px;
   }

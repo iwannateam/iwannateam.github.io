@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Media
-permalink: /blog/
+title: Career
+permalink: /career/
 ---
 <!-- Slider Start -->
 <section id="global-header">
@@ -9,19 +9,20 @@ permalink: /blog/
     <div class="row">
       <div class="col-md-12">
         <div class="block">
-          <h1>Get the latest on what we're doing</h1>
-          <p>Catch up with us, anytime and anywhere</p>
+          <h1>We are hiring</h1>
+          <p>iWanna is looking for talents to join our team</p>
         </div>
       </div>
     </div>
   </div>
 </section>
-{% for post in site.posts %}
+
+{% for career in site.careers %}
 <div class="post-area">
-  <a href="{{ post.url | prepend: site.baseurl }}" class="bold">{{ post.title }}</a>
-  <p class="post-date">{{ post.date | date_to_long_string }}</p>
+  <a href="{{ career.url | prepend: site.baseurl }}" class="bold">{{ career.title }}</a>
+  <p class="post-date">{{ career.date | date_to_long_string }}</p>
   <p>
-    {{ post.content | strip_html | truncatewords: 50 }}
+    {{ career.content | strip_html | truncatewords: 30 }}
   </p>
 </div>
 {% endfor %}

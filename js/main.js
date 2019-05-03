@@ -3,7 +3,7 @@ $(document).ready(function(){
 
 	$("#portfolio-contant-active").mixItUp();
 
-
+    $("#portfolio-contant-team").mixItUp();
 	$("#testimonial-slider").owlCarousel({
 	    paginationSpeed : 500,      
 	    singleItem:true,
