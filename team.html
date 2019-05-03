@@ -248,13 +248,14 @@ permalink: /team/
             </div>
         </div>
         {% for post in site.posts %}
+        {% if post.category == "coach" %}
         <div class="post-area row">
             <div class="col-md-2" style="margin-right:30px;"><img style="width:150px;height:150px;border-radius: 50%;" src={{post.meta}} alt=""></div>
             <div class="col-md-9">
             <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
             <p class="post-date">{{ post.intro}}</p>
             </div>
-        </div>
+        </div>{% endif %}
         {% endfor %}
     </div>
 </section>

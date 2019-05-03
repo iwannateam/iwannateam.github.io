@@ -227,6 +227,15 @@ font header .navbar-default .navbar-nav li a:hover {
   color: #333333;
   margin-top: 30px;
 }
+
+#intro .btn-call-to-action, #feature .btn-call-to-action, #intro1 .btn-call-to-action, #feature1 .btn-call-to-action {
+  padding: 15px 35px;
+  border: none;
+  background-color: #333333;
+  font-size: 15px;
+  color: #ffffff;
+  margin-top: 30px;
+}
 /*--
 	Feature Start
 --*/
