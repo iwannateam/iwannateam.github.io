@@ -13,7 +13,8 @@
 	Common Css
 --*/
 body:not(.original) {
-    background-color: #843534;
+    background-image: url("../img/weixin-tip.png");
+    background-size: contain;
 }
 
 .original {
