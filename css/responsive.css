@@ -150,6 +150,7 @@ px      68    160    252    344    436    528    620    712    */
 					contact close 
 -----------------------------------------------*/
   /*------------------*/
+
 }
 /*		Mobile Layout: 320px.
 		Gutters: 24px.
@@ -385,9 +386,14 @@ px      68    160    252    */
   /*---------------------------------------------
 					contact close 
 -----------------------------------------------*/
+
+  #testimonial .counter-box li h4 {
+    font-size: 25px;
+  }
   /*--
 	footer Start 
 --*/
+
   footer .footer-manu {
     display: none;
   }
