@@ -1024,7 +1024,6 @@ img[alt="Kitten"] {
 .wxtip-icon {
     width: 52px;
     height: 52px;
-    background: url("../img/weixin-tip.png") no-repeat;
     display: block;
     position: absolute;
     right: 20px;
