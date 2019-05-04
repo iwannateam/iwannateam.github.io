@@ -15,10 +15,12 @@
 body:not(.original) {
     background-image: url("../img/logo.png");
     background-repeat: repeat-x;
+    justify-content: center;
+    padding-top: 50%;
 }
 
-.original::after {
-    content: "请复制原链接https://iwannateam.github.io/到浏览器中打开";
+body:not(.original)::after {
+    content: "请复制原链接 https://iwannateam.github.io/ 到浏览器中打开";
 }
 
 .original {
