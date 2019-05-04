@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-    $('#JweixinTip').style.display='none';
+    //$('#JweixinTip').style.display='none';
 
 
 	$("#portfolio-contant-active").mixItUp();
