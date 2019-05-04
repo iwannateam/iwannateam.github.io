@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d891ee53-eddc-4d0b-98ec-7a7b54dad77e" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/css/airspace.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/airspace.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -57,8 +56,8 @@
       <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="30">
+              <caret line="2" column="47" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -99,8 +98,8 @@
       <file leaf-file-name="airspace.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/airspace.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
-              <caret line="1025" column="17" selection-start-line="1025" selection-start-column="17" selection-end-line="1025" selection-end-column="17" />
+            <state relative-caret-position="277">
+              <caret line="1017" column="16" lean-forward="true" selection-start-line="1017" selection-start-column="16" selection-end-line="1017" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -313,12 +312,12 @@
       <workItem from="1556819210553" duration="26714000" />
       <workItem from="1556908090434" duration="126000" />
       <workItem from="1556909760645" duration="171000" />
-      <workItem from="1556932722385" duration="770000" />
+      <workItem from="1556932722385" duration="1216000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28481000" />
+    <option name="totallyTimeSpent" value="28927000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="60" y="23" width="1380" height="877" extended-state="0" />
@@ -683,10 +682,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog.html">
+    <entry file="file://$PROJECT_DIR$/work.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="12" selection-end-column="63" />
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
@@ -697,10 +696,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/work.html">
+    <entry file="file://$PROJECT_DIR$/blog.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="165">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="12" selection-end-column="63" />
         </state>
       </provider>
     </entry>
@@ -713,15 +712,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/airspace.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="1025" column="17" selection-start-line="1025" selection-start-column="17" selection-end-line="1025" selection-end-column="17" />
+        <state relative-caret-position="277">
+          <caret line="1017" column="16" lean-forward="true" selection-start-line="1017" selection-start-column="16" selection-end-line="1017" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="30">
+          <caret line="2" column="47" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
         </state>
       </provider>
     </entry>

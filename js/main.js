@@ -1,13 +1,9 @@
 $(document).ready(function(){
 
-    var ua = navigator.userAgent;
-    var isWeixin = !!/MicroMessenger/i.test(ua);
-    if(isWeixin){
-        //window.event? window.event.returnValue = false : e.preventDefault();
+    var ua = navigator.userAgent.toLowerCase();
+    if (/micromessenger/.test(ua)) {
         document.getElementById('JweixinTip').style.display='block';
-    }
-
-
+	}
 
 
 	$("#portfolio-contant-active").mixItUp();
