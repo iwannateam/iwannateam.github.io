@@ -2,7 +2,7 @@ $(document).ready(function(){
 
     var ua = navigator.userAgent.toLowerCase();
     if (/micromessenger/.test(ua)) {
-        document.getElementById('JweixinTip').style.display='none';
+        $('#JweixinTip').style.display='none';
 	}
 
 
