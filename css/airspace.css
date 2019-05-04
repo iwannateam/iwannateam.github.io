@@ -1018,7 +1018,7 @@ img[alt="Kitten"] {
     width: 100%;
     height: 100%;
     z-index: 998;
-    display: none;
+    display: block;
 }
 
 .wxtip-icon {
