@@ -13,10 +13,11 @@
 	Common Css
 --*/
 body:not(.original) {
-    background-image: url("../img/weixin-tip.png");
+    background-image: url("../img/weixin-tip.jpg");
     background-size: cover;
     background-repeat: repeat-x;
 }
+
 
 .original {
     font-family: 'Open Sans', sans-serif;
