@@ -13,14 +13,8 @@
 	Common Css
 --*/
 body:not(.original) {
-    background-image: url("../img/logo.png");
+    background-image: url("../img/weixin-tip.jpg");
     background-repeat: repeat-x;
-    justify-content: center;
-    padding-top: 50%;
-}
-
-body:not(.original)::after {
-    content: "请复制原链接 https://iwannateam.github.io/ 到浏览器中打开";
 }
 
 .original {
