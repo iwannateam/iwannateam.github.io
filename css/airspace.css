@@ -15,6 +15,7 @@
 body:not(.original) {
     background-image: url("../img/weixin-tip.png");
     background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .original {
