@@ -13,11 +13,13 @@
 	Common Css
 --*/
 body:not(.original) {
-    background-image: url("../img/weixin-tip.jpg");
-    background-size: cover;
+    background-image: url("../img/logo.png");
     background-repeat: repeat-x;
 }
 
+.original::after {
+    content: "请复制原链接https://iwannateam.github.io/到浏览器中打开";
+}
 
 .original {
     font-family: 'Open Sans', sans-serif;
