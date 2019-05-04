@@ -12,7 +12,11 @@
 /*--
 	Common Css
 --*/
-body {
+body:not(.original) {
+    background-color: #843534;
+}
+
+.original {
     font-family: 'Open Sans', sans-serif;
     -webkit-font-smoothing: antialiased;
 }
